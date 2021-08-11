@@ -1,0 +1,20 @@
+__pycache__/
+
+.vscode/
+
+.pytest_cache/
+
+venv/
+
+steady-habitat-322508-87e9c9977f97.json
+
+test_to_spreadsheet.py
+
+# api/__pycache__/
+# api/.pytest_cache/
+
+# api_navi/__pycache__/
+# api_navi/.pytest_cache/
+
+# api_ranking/__pycache__/
+# api_ranking/.pytest_cache/
